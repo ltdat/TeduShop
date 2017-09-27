@@ -1,0 +1,13 @@
+F:\CODE\Visual Web Developer\ASP\TeduShop\TeduShop.Data\bin\Debug\TeduShop.Data.dll
+F:\CODE\Visual Web Developer\ASP\TeduShop\TeduShop.Data\bin\Debug\TeduShop.Data.pdb
+F:\CODE\Visual Web Developer\ASP\TeduShop\TeduShop.Data\obj\Debug\TeduShop.Data.csproj.CoreCompileInputs.cache
+F:\CODE\Visual Web Developer\ASP\TeduShop\TeduShop.Data\obj\Debug\TeduShop.Data.dll
+F:\CODE\Visual Web Developer\ASP\TeduShop\TeduShop.Data\obj\Debug\TeduShop.Data.pdb
+F:\CODE\Visual Web Developer\ASP\TeduShop\TeduShop.Data\bin\Debug\TeduShop.Data.dll.config
+F:\CODE\Visual Web Developer\ASP\TeduShop\TeduShop.Data\bin\Debug\EntityFramework.dll
+F:\CODE\Visual Web Developer\ASP\TeduShop\TeduShop.Data\bin\Debug\EntityFramework.SqlServer.dll
+F:\CODE\Visual Web Developer\ASP\TeduShop\TeduShop.Data\bin\Debug\TeduShop.Common.dll
+F:\CODE\Visual Web Developer\ASP\TeduShop\TeduShop.Data\bin\Debug\TeduShop.Common.pdb
+F:\CODE\Visual Web Developer\ASP\TeduShop\TeduShop.Data\bin\Debug\EntityFramework.xml
+F:\CODE\Visual Web Developer\ASP\TeduShop\TeduShop.Data\bin\Debug\EntityFramework.SqlServer.xml
+F:\CODE\Visual Web Developer\ASP\TeduShop\TeduShop.Data\obj\Debug\TeduShop.Data.csprojResolveAssemblyReference.cache
