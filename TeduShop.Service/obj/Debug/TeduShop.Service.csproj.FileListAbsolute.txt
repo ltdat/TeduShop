@@ -12,3 +12,17 @@ F:\CODE\Visual Web Developer\ASP\TeduShop\TeduShop.Service\bin\Debug\TeduShop.Da
 F:\CODE\Visual Web Developer\ASP\TeduShop\TeduShop.Service\bin\Debug\TeduShop.Data.dll.config
 F:\CODE\Visual Web Developer\ASP\TeduShop\TeduShop.Service\bin\Debug\TeduShop.Model.pdb
 F:\CODE\Visual Web Developer\ASP\TeduShop\TeduShop.Service\bin\Debug\TeduShop.Model.dll.config
+F:\CODE\Web Developer\ASP.NET\TeduShop\TeduShop.Service\bin\Debug\TeduShop.Service.dll
+F:\CODE\Web Developer\ASP.NET\TeduShop\TeduShop.Service\bin\Debug\TeduShop.Service.pdb
+F:\CODE\Web Developer\ASP.NET\TeduShop\TeduShop.Service\bin\Debug\TeduShop.Common.dll
+F:\CODE\Web Developer\ASP.NET\TeduShop\TeduShop.Service\bin\Debug\TeduShop.Data.dll
+F:\CODE\Web Developer\ASP.NET\TeduShop\TeduShop.Service\bin\Debug\TeduShop.Model.dll
+F:\CODE\Web Developer\ASP.NET\TeduShop\TeduShop.Service\bin\Debug\TeduShop.Common.pdb
+F:\CODE\Web Developer\ASP.NET\TeduShop\TeduShop.Service\bin\Debug\TeduShop.Data.pdb
+F:\CODE\Web Developer\ASP.NET\TeduShop\TeduShop.Service\bin\Debug\TeduShop.Data.dll.config
+F:\CODE\Web Developer\ASP.NET\TeduShop\TeduShop.Service\bin\Debug\TeduShop.Model.pdb
+F:\CODE\Web Developer\ASP.NET\TeduShop\TeduShop.Service\bin\Debug\TeduShop.Model.dll.config
+F:\CODE\Web Developer\ASP.NET\TeduShop\TeduShop.Service\obj\Debug\TeduShop.Service.csprojResolveAssemblyReference.cache
+F:\CODE\Web Developer\ASP.NET\TeduShop\TeduShop.Service\obj\Debug\TeduShop.Service.csproj.CoreCompileInputs.cache
+F:\CODE\Web Developer\ASP.NET\TeduShop\TeduShop.Service\obj\Debug\TeduShop.Service.dll
+F:\CODE\Web Developer\ASP.NET\TeduShop\TeduShop.Service\obj\Debug\TeduShop.Service.pdb
