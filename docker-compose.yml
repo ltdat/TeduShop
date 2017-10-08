@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  tedushop.web:
+    image: tedushop.web
+    build:
+      context: .\TeduShop.Web
+      dockerfile: Dockerfile
