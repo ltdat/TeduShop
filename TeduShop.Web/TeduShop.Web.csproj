@@ -240,8 +240,12 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="app\app.js" />
+    <Content Include="app\components\products\product.route.js" />
+    <Content Include="app\components\products\productAddController.js" />
     <Content Include="app\components\products\productAddView.html" />
+    <Content Include="app\components\products\productEditController.js" />
     <Content Include="app\components\products\productEditView.html" />
+    <Content Include="app\components\products\productListController.js" />
     <Content Include="app\components\products\productListView.html" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
@@ -264,6 +268,7 @@
     <Folder Include="app\components\users\" />
     <Folder Include="app\shared\footer\" />
     <Folder Include="app\shared\navigation\" />
+    <Folder Include="app\shared\services\" />
     <Folder Include="App_Data\" />
     <Folder Include="Assets\admin\css\" />
     <Folder Include="Assets\admin\img\" />
@@ -279,10 +284,6 @@
     <Content Include=".bowerrc" />
     <Content Include="bower.json" />
     <Content Include="app\app.route.js" />
-    <None Include="Dockerfile" />
-    <None Include=".dockerignore">
-      <DependentUpon>Dockerfile</DependentUpon>
-    </None>
     <None Include="Project_Readme.html" />
     <Content Include="Views\Admin\Index.cshtml" />
   </ItemGroup>
