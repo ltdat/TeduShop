@@ -64,21 +64,13 @@
     <Compile Include="Infrastructure\IUnitOfWork.cs" />
     <Compile Include="Infrastructure\RepositoryBase.cs" />
     <Compile Include="Infrastructure\UnitOfWork.cs" />
-    <Compile Include="Migrations\201705030905539_InitialDB.cs" />
-    <Compile Include="Migrations\201705030905539_InitialDB.Designer.cs">
-      <DependentUpon>201705030905539_InitialDB.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\201705050846526_AddErrorTable.cs" />
-    <Compile Include="Migrations\201705050846526_AddErrorTable.Designer.cs">
-      <DependentUpon>201705050846526_AddErrorTable.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\201705070754091_Integrated-AspnetIdentity.cs" />
-    <Compile Include="Migrations\201705070754091_Integrated-AspnetIdentity.Designer.cs">
-      <DependentUpon>201705070754091_Integrated-AspnetIdentity.cs</DependentUpon>
-    </Compile>
     <Compile Include="Migrations\201705070827237_ChangeKey.cs" />
     <Compile Include="Migrations\201705070827237_ChangeKey.Designer.cs">
       <DependentUpon>201705070827237_ChangeKey.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201710130057148_addSampleProductCategory.cs" />
+    <Compile Include="Migrations\201710130057148_addSampleProductCategory.Designer.cs">
+      <DependentUpon>201710130057148_addSampleProductCategory.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -117,17 +109,11 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Migrations\201705030905539_InitialDB.resx">
-      <DependentUpon>201705030905539_InitialDB.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\201705050846526_AddErrorTable.resx">
-      <DependentUpon>201705050846526_AddErrorTable.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\201705070754091_Integrated-AspnetIdentity.resx">
-      <DependentUpon>201705070754091_Integrated-AspnetIdentity.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="Migrations\201705070827237_ChangeKey.resx">
       <DependentUpon>201705070827237_ChangeKey.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201710130057148_addSampleProductCategory.resx">
+      <DependentUpon>201710130057148_addSampleProductCategory.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
