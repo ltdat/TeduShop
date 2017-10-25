@@ -9,46 +9,46 @@ namespace TeduShop.Web.Infrastructure.Extensions
 {
     public static class EntityExtensions
     {
-        public static void  UpdatePostCategory(this PostCategory postCategory,PostCategoryViewModel postCategoryVM)
+        public static void UpdatePostCategory(this PostCategory postCategory, PostCategoryViewModel postCategoryVm)
         {
-            postCategory.ID = postCategoryVM.ID;
-            postCategory.Name = postCategoryVM.Name;
-            postCategory.Alias = postCategoryVM.Alias;
-            postCategory.Description = postCategoryVM.Description;
-            postCategory.ParentID = postCategoryVM.ParentID;
-            postCategory.DisplayOrder = postCategoryVM.DisplayOrder;
-            postCategory.Image = postCategoryVM.Image;
-            postCategory.HomeFlag = postCategoryVM.HomeFlag;
+            postCategory.ID = postCategoryVm.ID;
+            postCategory.Name = postCategoryVm.Name;
+            postCategory.Description = postCategoryVm.Description;
+            postCategory.Alias = postCategoryVm.Alias;
+            postCategory.ParentID = postCategoryVm.ParentID;
+            postCategory.DisplayOrder = postCategoryVm.DisplayOrder;
+            postCategory.Image = postCategoryVm.Image;
+            postCategory.HomeFlag = postCategoryVm.HomeFlag;
 
-            postCategory.CreatedDate = postCategoryVM.CreatedDate;
-            postCategory.CreatedBy = postCategoryVM.CreatedBy;
-            postCategory.UpdatedDate = postCategoryVM.UpdatedDate;
-            postCategory.UpdatedBy = postCategoryVM.UpdatedBy;
-            postCategory.MetaDescription = postCategoryVM.MetaDescription;
-            postCategory.MetaKeyword = postCategoryVM.MetaKeyword;
-            postCategory.Status = postCategoryVM.Status;
+            postCategory.CreatedDate = postCategoryVm.CreatedDate;
+            postCategory.CreatedBy = postCategoryVm.CreatedBy;
+            postCategory.UpdatedDate = postCategoryVm.UpdatedDate;
+            postCategory.UpdatedBy = postCategoryVm.UpdatedBy;
+            postCategory.MetaKeyword = postCategoryVm.MetaKeyword;
+            postCategory.MetaDescription = postCategoryVm.MetaDescription;
+            postCategory.Status = postCategoryVm.Status;
+
         }
-        public static void UpdatePost(this Post post, PostViewModel postVM)
+
+        public static void UpdatePost(this Post post, PostViewModel postVm)
         {
-            post.ID = postVM.ID;
-            post.Name = postVM.Name;
-            post.Alias = postVM.Alias;
-            post.Description = postVM.Description;
-            post.CategoryID = postVM.CategoryID;
-            post.Content = postVM.Content;
+            post.ID = postVm.ID;
+            post.Name = postVm.Name;
+            post.Description = postVm.Description;
+            post.Alias = postVm.Alias;
+            post.CategoryID = postVm.CategoryID;
+            post.Content = postVm.Content;
+            post.Image = postVm.Image;
+            post.HomeFlag = postVm.HomeFlag;
+            post.ViewCount = postVm.ViewCount;
 
-            post.Image = postVM.Image;
-            post.HomeFlag = postVM.HomeFlag;
-            post.ViewCount = postVM.ViewCount;
-
-            post.CreatedDate = postVM.CreatedDate;
-            post.CreatedBy = postVM.CreatedBy;
-            post.UpdatedDate = postVM.UpdatedDate;
-            post.UpdatedBy = postVM.UpdatedBy;
-            post.MetaDescription = postVM.MetaDescription;
-            post.MetaKeyword = postVM.MetaKeyword;
-            post.Status = postVM.Status;
-
+            post.CreatedDate = postVm.CreatedDate;
+            post.CreatedBy = postVm.CreatedBy;
+            post.UpdatedDate = postVm.UpdatedDate;
+            post.UpdatedBy = postVm.UpdatedBy;
+            post.MetaKeyword = postVm.MetaKeyword;
+            post.MetaDescription = postVm.MetaDescription;
+            post.Status = postVm.Status;
         }
     }
 }
